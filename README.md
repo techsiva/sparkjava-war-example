@@ -1,5 +1,5 @@
 # sparkjava-war-examplee
-Build war with maven and sparkjava framework
+#Build war with maven and sparkjava framework
 
 Steps:
 
